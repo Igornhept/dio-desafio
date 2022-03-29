@@ -1,2 +1,3 @@
-# Repositorio do desafio da *DIO* pra crar um repositorio
+# Desafio de projeto git github
+## apenas um aluno latino americano...
 desafio de projetos sobre github
